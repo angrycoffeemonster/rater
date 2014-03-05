@@ -34,3 +34,9 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# private data
+settingsLocal.py
+passenger_wsgi.py
+tmp/*
+venv/*
